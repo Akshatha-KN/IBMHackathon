@@ -47,7 +47,7 @@ https://youtu.be/IcPecJQy-is
 
 ## Long description
 
-[More detail is available here](DESCRIPTION.md)
+[More detail is available here](description.md)
 
 ## Project roadmap
 
